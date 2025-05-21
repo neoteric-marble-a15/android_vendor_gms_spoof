@@ -17,5 +17,6 @@
         <item>VERSION.INCREMENTAL:13352765</item>
         <item>TYPE:user</item>  
         <item>TAGS:release-keys</item>
+        <item>VERSION.DEVICE_INITIAL_SDK_INT:21</item>
     </string-array>
 </resources>
