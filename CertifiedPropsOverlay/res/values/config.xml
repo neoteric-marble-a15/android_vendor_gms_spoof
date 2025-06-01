@@ -8,13 +8,13 @@
     <string-array name="config_certifiedBuildProperties" translatable="false">
         <item>MANUFACTURER:Google</item>
         <item>MODEL:Pixel 8a</item>
-        <item>FINGERPRINT:google/akita_beta/akita:16/BP22.250325.007/13352765:user/release-keys</item>
+        <item>FINGERPRINT:google/akita_beta/akita:16/BP31.250502.008/13497110:user/release-keys</item>
         <item>BRAND:google</item>
         <item>PRODUCT:akita_beta</item>
         <item>DEVICE:akita</item>
         <item>VERSION.RELEASE:16</item>
-        <item>ID:BP22.250325.007</item>
-        <item>VERSION.INCREMENTAL:13352765</item>
+        <item>ID:BP31.250502.008</item>
+        <item>VERSION.INCREMENTAL:13497110</item>
         <item>TYPE:user</item>  
         <item>TAGS:release-keys</item>
         <item>VERSION.DEVICE_INITIAL_SDK_INT:21</item>
